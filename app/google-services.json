@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "283356108143",
+    "project_id": "final-exam-3550e",
+    "storage_bucket": "final-exam-3550e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283356108143:android:30cd7a5c436440e5b2049a",
+        "android_client_info": {
+          "package_name": "com.example.enrollmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTAb-k-zH06mx0t8u8yXRCD4SyE7l4UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283356108143:android:d77a95b6e66269c5b2049a",
+        "android_client_info": {
+          "package_name": "com.example.finalexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTAb-k-zH06mx0t8u8yXRCD4SyE7l4UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283356108143:android:b0577196d50c9478b2049a",
+        "android_client_info": {
+          "package_name": "com.example.studentenrollmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTAb-k-zH06mx0t8u8yXRCD4SyE7l4UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
